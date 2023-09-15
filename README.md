@@ -1,3 +1,3 @@
-# chest_x-ray_classification
+# Chest X-ray Classification
 
 In this project, a set of x-rays are classified as Pneumonia or Normal using Transfer Learning and PyTorch.
